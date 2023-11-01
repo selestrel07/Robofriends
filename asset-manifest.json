@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/selestrel07.github.io/Robofriends/static/css/main.3a1b9e60.css",
+    "main.js": "/selestrel07.github.io/Robofriends/static/js/main.79e6a5f6.js",
+    "static/js/787.32032a02.chunk.js": "/selestrel07.github.io/Robofriends/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/selestrel07.github.io/Robofriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/selestrel07.github.io/Robofriends/index.html",
+    "main.3a1b9e60.css.map": "/selestrel07.github.io/Robofriends/static/css/main.3a1b9e60.css.map",
+    "main.79e6a5f6.js.map": "/selestrel07.github.io/Robofriends/static/js/main.79e6a5f6.js.map",
+    "787.32032a02.chunk.js.map": "/selestrel07.github.io/Robofriends/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a1b9e60.css",
+    "static/js/main.79e6a5f6.js"
+  ]
+}
